@@ -1,0 +1,11 @@
+---
+application:
+  name: "auraxmhmtbossmusic"
+  project: "Musicbotop"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-auraxmhmtbossmusic"
+  routes:
+  - application_name: "auraxmhmtbossmusic"
+    paths:
+    - "/*"
